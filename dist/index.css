@@ -1,0 +1,609 @@
+.m-1 {
+  margin: 0.5rem;
+}
+.mt-1 {
+  -webkit-margin-before: 0.5rem;
+          margin-block-start: 0.5rem;
+}
+.mb-1 {
+  -webkit-margin-after: 0.5rem;
+          margin-block-end: 0.5rem;
+}
+.ms-1 {
+  -webkit-margin-start: 0.5rem;
+          margin-inline-start: 0.5rem;
+}
+.me-1 {
+  -webkit-margin-end: 0.5rem;
+          margin-inline-end: 0.5rem;
+}
+.mx-1 {
+  margin-inline: 0.5rem;
+}
+.my-1 {
+  margin-block: 0.5rem;
+}
+
+.p-1 {
+  padding: 0.5rem;
+}
+.pt-1 {
+  -webkit-padding-before: 0.5rem;
+          padding-block-start: 0.5rem;
+}
+.pb-1 {
+  -webkit-padding-after: 0.5rem;
+          padding-block-end: 0.5rem;
+}
+.ps-1 {
+  -webkit-padding-start: 0.5rem;
+          padding-inline-start: 0.5rem;
+}
+.pe-1 {
+  -webkit-padding-end: 0.5rem;
+          padding-inline-end: 0.5rem;
+}
+.px-1 {
+  padding-inline: 0.5rem;
+}
+.py-1 {
+  padding-block: 0.5rem;
+}
+
+.m-2 {
+  margin: 1rem;
+}
+.mt-2 {
+  -webkit-margin-before: 1rem;
+          margin-block-start: 1rem;
+}
+.mb-2 {
+  -webkit-margin-after: 1rem;
+          margin-block-end: 1rem;
+}
+.ms-2 {
+  -webkit-margin-start: 1rem;
+          margin-inline-start: 1rem;
+}
+.me-2 {
+  -webkit-margin-end: 1rem;
+          margin-inline-end: 1rem;
+}
+.mx-2 {
+  margin-inline: 1rem;
+}
+.my-2 {
+  margin-block: 1rem;
+}
+
+.p-2 {
+  padding: 1rem;
+}
+.pt-2 {
+  -webkit-padding-before: 1rem;
+          padding-block-start: 1rem;
+}
+.pb-2 {
+  -webkit-padding-after: 1rem;
+          padding-block-end: 1rem;
+}
+.ps-2 {
+  -webkit-padding-start: 1rem;
+          padding-inline-start: 1rem;
+}
+.pe-2 {
+  -webkit-padding-end: 1rem;
+          padding-inline-end: 1rem;
+}
+.px-2 {
+  padding-inline: 1rem;
+}
+.py-2 {
+  padding-block: 1rem;
+}
+
+.m-3 {
+  margin: 1.5rem;
+}
+.mt-3 {
+  -webkit-margin-before: 1.5rem;
+          margin-block-start: 1.5rem;
+}
+.mb-3 {
+  -webkit-margin-after: 1.5rem;
+          margin-block-end: 1.5rem;
+}
+.ms-3 {
+  -webkit-margin-start: 1.5rem;
+          margin-inline-start: 1.5rem;
+}
+.me-3 {
+  -webkit-margin-end: 1.5rem;
+          margin-inline-end: 1.5rem;
+}
+.mx-3 {
+  margin-inline: 1.5rem;
+}
+.my-3 {
+  margin-block: 1.5rem;
+}
+
+.p-3 {
+  padding: 1.5rem;
+}
+.pt-3 {
+  -webkit-padding-before: 1.5rem;
+          padding-block-start: 1.5rem;
+}
+.pb-3 {
+  -webkit-padding-after: 1.5rem;
+          padding-block-end: 1.5rem;
+}
+.ps-3 {
+  -webkit-padding-start: 1.5rem;
+          padding-inline-start: 1.5rem;
+}
+.pe-3 {
+  -webkit-padding-end: 1.5rem;
+          padding-inline-end: 1.5rem;
+}
+.px-3 {
+  padding-inline: 1.5rem;
+}
+.py-3 {
+  padding-block: 1.5rem;
+}
+
+.m-4 {
+  margin: 2rem;
+}
+.mt-4 {
+  -webkit-margin-before: 2rem;
+          margin-block-start: 2rem;
+}
+.mb-4 {
+  -webkit-margin-after: 2rem;
+          margin-block-end: 2rem;
+}
+.ms-4 {
+  -webkit-margin-start: 2rem;
+          margin-inline-start: 2rem;
+}
+.me-4 {
+  -webkit-margin-end: 2rem;
+          margin-inline-end: 2rem;
+}
+.mx-4 {
+  margin-inline: 2rem;
+}
+.my-4 {
+  margin-block: 2rem;
+}
+
+.p-4 {
+  padding: 2rem;
+}
+.pt-4 {
+  -webkit-padding-before: 2rem;
+          padding-block-start: 2rem;
+}
+.pb-4 {
+  -webkit-padding-after: 2rem;
+          padding-block-end: 2rem;
+}
+.ps-4 {
+  -webkit-padding-start: 2rem;
+          padding-inline-start: 2rem;
+}
+.pe-4 {
+  -webkit-padding-end: 2rem;
+          padding-inline-end: 2rem;
+}
+.px-4 {
+  padding-inline: 2rem;
+}
+.py-4 {
+  padding-block: 2rem;
+}
+
+.m-5 {
+  margin: 2.25rem;
+}
+.mt-5 {
+  -webkit-margin-before: 2.25rem;
+          margin-block-start: 2.25rem;
+}
+.mb-5 {
+  -webkit-margin-after: 2.25rem;
+          margin-block-end: 2.25rem;
+}
+.ms-5 {
+  -webkit-margin-start: 2.25rem;
+          margin-inline-start: 2.25rem;
+}
+.me-5 {
+  -webkit-margin-end: 2.25rem;
+          margin-inline-end: 2.25rem;
+}
+.mx-5 {
+  margin-inline: 2.25rem;
+}
+.my-5 {
+  margin-block: 2.25rem;
+}
+
+.p-5 {
+  padding: 2.25rem;
+}
+.pt-5 {
+  -webkit-padding-before: 2.25rem;
+          padding-block-start: 2.25rem;
+}
+.pb-5 {
+  -webkit-padding-after: 2.25rem;
+          padding-block-end: 2.25rem;
+}
+.ps-5 {
+  -webkit-padding-start: 2.25rem;
+          padding-inline-start: 2.25rem;
+}
+.pe-5 {
+  -webkit-padding-end: 2.25rem;
+          padding-inline-end: 2.25rem;
+}
+.px-5 {
+  padding-inline: 2.25rem;
+}
+.py-5 {
+  padding-block: 2.25rem;
+}
+
+.m-6 {
+  margin: 2.5rem;
+}
+.mt-6 {
+  -webkit-margin-before: 2.5rem;
+          margin-block-start: 2.5rem;
+}
+.mb-6 {
+  -webkit-margin-after: 2.5rem;
+          margin-block-end: 2.5rem;
+}
+.ms-6 {
+  -webkit-margin-start: 2.5rem;
+          margin-inline-start: 2.5rem;
+}
+.me-6 {
+  -webkit-margin-end: 2.5rem;
+          margin-inline-end: 2.5rem;
+}
+.mx-6 {
+  margin-inline: 2.5rem;
+}
+.my-6 {
+  margin-block: 2.5rem;
+}
+
+.p-6 {
+  padding: 2.5rem;
+}
+.pt-6 {
+  -webkit-padding-before: 2.5rem;
+          padding-block-start: 2.5rem;
+}
+.pb-6 {
+  -webkit-padding-after: 2.5rem;
+          padding-block-end: 2.5rem;
+}
+.ps-6 {
+  -webkit-padding-start: 2.5rem;
+          padding-inline-start: 2.5rem;
+}
+.pe-6 {
+  -webkit-padding-end: 2.5rem;
+          padding-inline-end: 2.5rem;
+}
+.px-6 {
+  padding-inline: 2.5rem;
+}
+.py-6 {
+  padding-block: 2.5rem;
+}
+
+.m-7 {
+  margin: 3rem;
+}
+.mt-7 {
+  -webkit-margin-before: 3rem;
+          margin-block-start: 3rem;
+}
+.mb-7 {
+  -webkit-margin-after: 3rem;
+          margin-block-end: 3rem;
+}
+.ms-7 {
+  -webkit-margin-start: 3rem;
+          margin-inline-start: 3rem;
+}
+.me-7 {
+  -webkit-margin-end: 3rem;
+          margin-inline-end: 3rem;
+}
+.mx-7 {
+  margin-inline: 3rem;
+}
+.my-7 {
+  margin-block: 3rem;
+}
+
+.p-7 {
+  padding: 3rem;
+}
+.pt-7 {
+  -webkit-padding-before: 3rem;
+          padding-block-start: 3rem;
+}
+.pb-7 {
+  -webkit-padding-after: 3rem;
+          padding-block-end: 3rem;
+}
+.ps-7 {
+  -webkit-padding-start: 3rem;
+          padding-inline-start: 3rem;
+}
+.pe-7 {
+  -webkit-padding-end: 3rem;
+          padding-inline-end: 3rem;
+}
+.px-7 {
+  padding-inline: 3rem;
+}
+.py-7 {
+  padding-block: 3rem;
+}
+
+.m-8 {
+  margin: 4.5rem;
+}
+.mt-8 {
+  -webkit-margin-before: 4.5rem;
+          margin-block-start: 4.5rem;
+}
+.mb-8 {
+  -webkit-margin-after: 4.5rem;
+          margin-block-end: 4.5rem;
+}
+.ms-8 {
+  -webkit-margin-start: 4.5rem;
+          margin-inline-start: 4.5rem;
+}
+.me-8 {
+  -webkit-margin-end: 4.5rem;
+          margin-inline-end: 4.5rem;
+}
+.mx-8 {
+  margin-inline: 4.5rem;
+}
+.my-8 {
+  margin-block: 4.5rem;
+}
+
+.p-8 {
+  padding: 4.5rem;
+}
+.pt-8 {
+  -webkit-padding-before: 4.5rem;
+          padding-block-start: 4.5rem;
+}
+.pb-8 {
+  -webkit-padding-after: 4.5rem;
+          padding-block-end: 4.5rem;
+}
+.ps-8 {
+  -webkit-padding-start: 4.5rem;
+          padding-inline-start: 4.5rem;
+}
+.pe-8 {
+  -webkit-padding-end: 4.5rem;
+          padding-inline-end: 4.5rem;
+}
+.px-8 {
+  padding-inline: 4.5rem;
+}
+.py-8 {
+  padding-block: 4.5rem;
+}
+
+/* https://piccalil.li/blog/a-modern-css-reset */
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+/* Remove default margin */
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role=list],
+ol[role=list] {
+  list-style: none;
+}
+
+/* Set core root defaults */
+html:focus-within {
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+/* Set core body defaults */
+body {
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  -webkit-text-decoration-skip: ink;
+          text-decoration-skip-ink: auto;
+}
+
+/* Make images easier to work with */
+img,
+picture,
+svg {
+  max-width: 100%;
+  display: block;
+}
+
+/* Remove all animations, transitions and smooth scroll for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+  html:focus-within {
+    scroll-behavior: auto;
+  }
+  *,
+*::before,
+*::after {
+    -webkit-animation-duration: 0.01ms !important;
+            animation-duration: 0.01ms !important;
+    -webkit-animation-iteration-count: 1 !important;
+            animation-iteration-count: 1 !important;
+    -webkit-transition-duration: 0.01ms !important;
+            transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+body {
+  font-size: 1.5rem;
+  font-family: "Roboto", "Noto Sans TC", sans-serif;
+  line-height: 1.5;
+}
+
+.container {
+  width: 1200px;
+  margin-inline: auto;
+}
+
+.container-sm {
+  width: 996px;
+  margin-inline: auto;
+}
+
+.header {
+  border-bottom: 2px solid hsl(0deg, 0%, 0%);
+}
+.header__title {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.3;
+}
+
+.profile__title,
+.education__title,
+.work__title {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.34375;
+  border-bottom: 1px solid hsl(0deg, 0%, 0%);
+}
+.profile__subtitle,
+.education__subtitle,
+.work__subtitle {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: hsl(0deg, 95%, 32%);
+}
+.profile__list,
+.education__list,
+.work__list {
+  padding-bottom: 4.5rem;
+}
+.profile__item:first-child,
+.education__item:first-child,
+.work__item:first-child {
+  padding: 1rem 0 1.5rem;
+}
+
+.work__list {
+  width: 40.125rem;
+  margin-left: 1.5rem;
+}
+.work__item {
+  padding: 0 0 1.5rem 1.5rem;
+  border-left: 1px solid hsl(215deg, 28%, 68%);
+}
+.work__item:first-child {
+  padding: 0 0 1.5rem 1.5rem;
+  margin-top: 1rem;
+}
+.work__item:last-child {
+  padding-bottom: 0;
+}
+.work__info {
+  font-size: 1.25rem;
+}
+
+.skill,
+.contact {
+  text-align: center;
+  white-space: nowrap;
+  margin-bottom: 4.5rem;
+  color: hsl(0deg, 0%, 100%);
+  background-color: hsl(213deg, 22%, 33%);
+}
+.skill__title,
+.contact__title {
+  font-size: 2rem;
+  line-height: 1.40625;
+  border-bottom: 1px solid hsl(0deg, 0%, 100%);
+  padding-top: 1.5rem;
+}
+.skill__subtitle,
+.contact__subtitle {
+  font-size: 1.5rem;
+}
+.skill__list,
+.contact__list {
+  width: 13.25rem;
+  margin-inline: auto;
+  padding: 2.5rem 0 2.25rem;
+}
+.skill__item,
+.contact__item {
+  font-weight: 300;
+  padding: 0 0 1rem 1.5rem;
+  border-left: 1px solid hsl(215deg, 28%, 68%);
+}
+
+.contact__list {
+  width: 100%;
+}
+.contact__item {
+  border-left: 0;
+}
+.contact__item:last-child {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.contact__link {
+  color: hsl(0deg, 0%, 100%);
+  text-decoration: none;
+}
+.contact__link:hover {
+  color: hsl(213deg, 22%, 33%);
+  background-color: hsl(0deg, 0%, 100%);
+}/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,11 @@
+@use "../utilities" as *;
+
+.header {
+  border-bottom: 2px solid clr(neutral, 900);
+
+  &__title {
+    font-size: fs(xlarge);
+    font-weight: fw(regular);
+    line-height: 1.3;
+  }
+}

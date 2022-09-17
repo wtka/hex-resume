@@ -1,0 +1,7 @@
+@use "../utilities" as *;
+
+body {
+  font-size: fs(medium);
+  font-family: $fonts;  
+  line-height: 1.5;
+}

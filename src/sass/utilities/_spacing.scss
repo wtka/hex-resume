@@ -1,0 +1,50 @@
+@use "variables" as *;
+
+@each $spacer-name, $spacer-value in $spacers {
+  .m {
+    &-#{$spacer-name} {
+      margin: $spacer-value;
+    }
+    &t-#{$spacer-name} {
+      margin-block-start: $spacer-value;
+    }
+    &b-#{$spacer-name} {
+      margin-block-end: $spacer-value;
+    }
+    &s-#{$spacer-name} {
+      margin-inline-start: $spacer-value;
+    }
+    &e-#{$spacer-name} {
+      margin-inline-end: $spacer-value;
+    }
+    &x-#{$spacer-name} {
+      margin-inline: $spacer-value;
+    }
+    &y-#{$spacer-name} {
+      margin-block: $spacer-value;
+    }    
+  }
+  .p {
+    &-#{$spacer-name} {
+      padding: $spacer-value;
+    }
+    &t-#{$spacer-name} {
+      padding-block-start: $spacer-value;
+    }
+    &b-#{$spacer-name} {
+      padding-block-end: $spacer-value;
+    }
+    &s-#{$spacer-name} {
+      padding-inline-start: $spacer-value;
+    }
+    &e-#{$spacer-name} {
+      padding-inline-end: $spacer-value;
+    }
+    &x-#{$spacer-name} {
+      padding-inline: $spacer-value;
+    }
+    &y-#{$spacer-name} {
+      padding-block: $spacer-value;
+    }
+  }
+}

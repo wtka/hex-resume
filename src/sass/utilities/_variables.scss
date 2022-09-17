@@ -1,0 +1,45 @@
+@use "units" as *;
+
+$colors: (
+  neutral: (
+    100: hsl(0, 0%, 100%),    
+    900: hsl(0, 0%, 0%),    
+  ),
+  primary: (
+    400: hsl(0, 95%, 32%), 
+  ),
+  secondary: (
+    300: hsl(215, 28%, 68%),
+    400: hsl(213, 22%, 33%),
+  ),   
+)!default;
+
+$fonts: 'Roboto', 'Noto Sans TC', sans-serif;
+$fonts-chinese: 'PingFang', sans-serif;
+
+$font-sizes: (
+  small : rem(16px),
+  normal : rem(20px),
+  medium : rem(24px),
+  large : rem(32px),
+  xlarge: rem(80px),
+)!default;
+
+$font-weights: (
+  light: 300,
+  regular: 400,
+  medium: 500,
+  seme-bold: 600,
+  bold: 700,
+)!default;
+
+$spacers: (  
+  1: rem(8px),
+  2: rem(16px),
+  3: rem(24px),
+  4: rem(32px),
+  5: rem(36px),
+  6: rem(40px),
+  7: rem(48px),
+  8: rem(72px),
+)!default;
